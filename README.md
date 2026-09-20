@@ -10,6 +10,7 @@ This repository records my ongoing reading, analysis, and reflections on two res
 | --- | --- | --- |
 | **LLM side-channel security** | Information leakage through timing, cache sharing, hardware caches, networks, and related defenses in LLM inference and serving systems. | [Browse notes](Side-channel-attack-inLLMs-paperreading/README.md) |
 | **Low-resource language spelling correction** | Error detection, correction, normalization, tokenization, and supporting resources for Persian, Vietnamese, Urdu, and other under-resourced languages. | [Browse notes](Low-resource-languages-spelling-correction-paperreading/README.md) |
+| **AI-Sercurity** | AI-based security| [Browse notes](AI-Security-paperreading/README.md) |
 
 ## What You Will Find
 
