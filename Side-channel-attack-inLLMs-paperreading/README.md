@@ -24,6 +24,7 @@
 | 8 | 2026-02-12 | Wiretapping LLMs: Network Side-Channel Attacks on Interactive LLM Services | [笔记](notes/008-Wiretapping) | [2025年02月](https://eprint.iacr.org/2025/167.pdf) |
 | 9 | 2026-03-05 | Side-Channel  Attacks  in  Multi-Tenant Cloud  Environments:  Prevention  & Mitigation | [笔记](notes/009-Ijisem.md) | [2025年04月](https://ijisem.com/journal/index.php/ijisem/article/view/291/267) |
 | 10 | 2026-08-14 | SemShareKV: Efficient KVCache Sharing for Semantically Similar Prompts via Token-Level LSH Matching | [笔记](notes/010-SemShareKV.md) | [2025年02月](https://arxiv.org/pdf/2509.24832) |
+| 11 | 2026-09-19 | Auditing Prompt Caching in Language Model APIs | [笔记](notes/011-Audit-Prompt-Cache.md) | [2025年02月](https://arxiv.org/abs/2502.07776) |
 | ... | ... | ... | ... |
 
 
